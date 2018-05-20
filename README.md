@@ -1,3 +1,4 @@
 # dessert
 
-This is a test
+This is a directory with some simple examples
+
